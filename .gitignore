@@ -1,3 +1,10 @@
 .vs/
-TestParser/bin/
 TestParser/obj/
+TestParser/bin/Debug/InText.txt
+TestParser/bin/Debug/OutText.txt
+TestParser/bin/Debug/TestParser.exe
+TestParser/bin/Debug/TestParser.exe.config
+TestParser/bin/Debug/TestParser.pdb
+TestParser/bin/Debug/TestParser.vshost.exe
+TestParser/bin/Debug/TestParser.vshost.exe.config
+TestParser/bin/Debug/TestParser.vshost.exe.manifest
